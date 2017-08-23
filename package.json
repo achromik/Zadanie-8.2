@@ -11,13 +11,15 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achromik/ActiveBox.git"
+    "url": "git+https://github.com/achromik/Zadanie-8.2.git"
   },
   "bugs": {
-    "url": "https://github.com/achromik/ActiveBox/issues"
+    "url": "https://github.com/achromik/Zadanie-8.2/issues"
   },
-  "homepage": "https://github.com/achromik/ActiveBox#readme",
+  "homepage": "https://github.com/achromik/Zadanie-8.2#readme",
   "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "cssnano": "^3.10.0",
     "grunt": "^1.0.1",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-cssmin": "^2.2.1",
@@ -26,6 +28,7 @@
     "grunt-contrib-uglify": "^3.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-postcss": "^0.8.0",
-    "grunt-sass": "^2.0.0"
+    "grunt-sass": "^2.0.0",
+    "pixrem": "^4.0.1"
   }
 }
